@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\StringEquals\StringEquals\bin\Debug\netcoreapp3.1\StringEquals.exe
+C:\Users\hp\source\repos\StringEquals\StringEquals\bin\Debug\netcoreapp3.1\StringEquals.deps.json
+C:\Users\hp\source\repos\StringEquals\StringEquals\bin\Debug\netcoreapp3.1\StringEquals.runtimeconfig.json
+C:\Users\hp\source\repos\StringEquals\StringEquals\bin\Debug\netcoreapp3.1\StringEquals.runtimeconfig.dev.json
+C:\Users\hp\source\repos\StringEquals\StringEquals\bin\Debug\netcoreapp3.1\StringEquals.dll
+C:\Users\hp\source\repos\StringEquals\StringEquals\bin\Debug\netcoreapp3.1\StringEquals.pdb
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.AssemblyInfo.cs
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.dll
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.pdb
+C:\Users\hp\source\repos\StringEquals\StringEquals\obj\Debug\netcoreapp3.1\StringEquals.genruntimeconfig.cache
